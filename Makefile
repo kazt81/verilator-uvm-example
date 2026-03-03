@@ -1,5 +1,5 @@
-
-# https://antmicro.com/blog/2025/10/support-for-upstream-uvm-2017-in-verilator
+# Verilator + UVM simulation environment
+# Based on: https://antmicro.com/blog/2025/10/support-for-upstream-uvm-2017-in-verilator
 
 .DEFAULT_GOAL := all
 .PHONY: all setup build run clean
